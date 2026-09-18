@@ -131,10 +131,13 @@ docs/
 
 ### Documentos disponíveis
 
-- Arquitetura geral: ____________________
-- Projeto mecânico: ____________________
-- Diagrama elétrico: ____________________
-- Documentação do software: ____________________
+- Arquitetura geral: [`Arquitetura geral.md`](Arquitetura geral.md)
+- Projeto mecânico:
+[`Arquitetura geral.md`](Arquitetura geral.md)
+- Diagrama elétrico:
+ [`Arquitetura geral.md`](Arquitetura geral.md)
+- Documentação geral:
+[`Arquitetura geral.md`](Arquitetura geral.md) 
 - Lista de materiais: ____________________
 - Registros de testes: ____________________
 
