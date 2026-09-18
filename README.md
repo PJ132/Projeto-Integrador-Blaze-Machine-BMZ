@@ -34,12 +34,12 @@ Descrever, de forma objetiva, a solução escolhida pela equipe.
 
 Exemplo:
 
-- arquitetura de tração: diferencial com dois motores;
+- arquitetura de tração: um Motor CC;
 - direção: ____________________;
 - controlador principal: ____________________;
-- driver de motores: ____________________;
-- câmera embarcada: ____________________;
-- estratégia de alimentação: ____________________;
+- driver de motores: L298N;
+- câmera embarcada: Telefone;
+- estratégia de alimentação: Bateria;
 - sensores adicionais, se houver: ____________________;
 - recursos de automação, se houver: ____________________.
 
@@ -144,9 +144,14 @@ docs/
 | Item | Quantidade | Origem | Situação |
 |---|---:|---|---|
 | ESP32 | 1 | Kit da organização | Disponível |
+| Cabo USB pra esp32 | 1 | Kit da organização | Disponível |
 | Motor DC | 2 | Kit da organização | Disponível |
-| Driver de motor | 1 | Kit da organização | Disponível |
-| ____________________ | ___ | Equipe / organização | ____________________ |
+| Suportes de Motor | 4 |Kit da organização | Disponível |
+| Driver de motor: L298N | 1 | Kit da organização | Disponível |
+| Roda boba | 1 | Kit da organização | Disponível |
+| Base de acrílico | 1 |Kit da organização | Disponível |
+| Parafusos | 4 | Kit da organização | Disponível |
+| Porcas | 4 | Kit da organização | Disponível |
 
 ---
 
