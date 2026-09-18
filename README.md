@@ -133,6 +133,7 @@ docs/
 
 - Arquitetura geral: [`Arquitetura geral.md`](https://github.com/PJ132/Projeto-Integrador-Blaze-Machine-BMZ/blob/003ebb7c684bd08852cc50fc0c99a431249b2c7d/docs/arquitetura/Arquitetura%20Geral)
 - Diagrama elétrico: [`Diagrama elétrico.md`](https://github.com/PJ132/Projeto-Integrador-Blaze-Machine-BMZ/blob/003ebb7c684bd08852cc50fc0c99a431249b2c7d/docs/eletronica/Diagrama%20el%C3%A9trico)
+- Documentação do software: [`Documentação do software`](https://github.com/PJ132/Projeto-Integrador-Blaze-Machine-BMZ/blob/003ebb7c684bd08852cc50fc0c99a431249b2c7d/docs/software/Documenta%C3%A7%C3%A3o%20Do%20Software)
 - Documentação geral: [`Documentação geral.md`](Documentação geral.md)
 - Lista de materiais: [`Lista de materiais.md`](Lista de materiais.md)
 - Registros de testes: [`Registros de testes.md`](https://github.com/PJ132/Projeto-Integrador-Blaze-Machine-BMZ/blob/003ebb7c684bd08852cc50fc0c99a431249b2c7d/docs/testes/Registros%20de%20testes)
