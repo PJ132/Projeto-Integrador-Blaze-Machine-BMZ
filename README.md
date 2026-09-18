@@ -118,7 +118,7 @@ O registro semanal de atividades está disponível em:
 
 ## 6. Documentação técnica
 
-Organizar da documentação técnica, nas seguintes pastas:
+Organização da documentação técnica, nas seguintes pastas:
 ```text
 docs/
 ├── arquitetura/
