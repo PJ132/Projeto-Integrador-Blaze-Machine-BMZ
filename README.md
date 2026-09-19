@@ -34,7 +34,7 @@ Descrever, de forma objetiva, a solução escolhida pela equipe.
 
 Exemplo:
 
-- arquitetura de tração: um Motor CC;
+- arquitetura de tração: Dois Motores DC;
 - direção: ____________________;
 - controlador principal: ____________________;
 - driver de motores: L298N;
