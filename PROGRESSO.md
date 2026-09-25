@@ -47,13 +47,13 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 - Teste dos Componentes.
 - Montagem do carrinho.
-- Registro dos Testes feito.
+- Registro dos Testes
 
 ## Concluído
 
 - Testes dos componentes: Motor funcionando, Ponte H funcionando, ESP32 funcionando.
 - Montagem do carrinho: Realizado
-- 
+- Registro do código feito: [`Testes do dia 24/09/2026 e 25/09/2026`](https://github.com/PJ132/Projeto-Integrador-Blaze-Machine-BMZ/blob/main/docs/testes/Testes%3A%2024-09-2026%20e%2025-09-2026)
 
 ## Não concluído
 
@@ -65,20 +65,23 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 | Teste | Resultado |
 |---|---|
-| ____________________ | ____________________ |
+| [`Testes do dia 24/09/2026 e 25/09/2026`](https://github.com/PJ132/Projeto-Integrador-Blaze-Machine-BMZ/blob/main/docs/testes/Testes%3A%2024-09-2026%20e%2025-09-2026) | CONCLUIDO |
 
 ## Próximas ações
 
-- ____________________
-- ____________________
+- Estudar a ativação bluetooth do ESP32
+- Pesquisar programa de controle via bluetooth
+- Aplicar o programa de controle via bluetooth com ESP32
 
 ---
 
 # Semana 3 — 30/09/2026 a 06/10/2026
 
 ## Planejado
-
-- ____________________
+Mudamos o planejmaneto dessa semana ou seja está diferente do cronograma pois avançamos mais do que planejamos.
+- Estudar a ativação bluetooth do ESP32
+- Pesquisar programa de controle via bluetooth
+- Aplicar o programa de controle via bluetooth com ESP32
 
 ## Concluído
 
