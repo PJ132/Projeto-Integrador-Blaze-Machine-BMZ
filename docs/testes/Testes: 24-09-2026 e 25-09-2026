@@ -1,0 +1,81 @@
+Dia 24/09/2026 foi nossa primeira vez encontrando o professor gustavo lima e indo pro laboratorio e lá fizemos testes e demos continuidade dia 25/09/2026, detalhes das respectivas datas abaixo:
+# Testes Realizados 24/09/2026
+- Testes dos componentes: Motor, Ponte H e ESP32
+- Inicio do código: execução no esp32 para fazer a rodar girar, ainda não terminado (foi terminado dia 25/09/2026).
+
+# Testes Realizados 25/09/2026
+- Montagem do carrinho
+- Continuação do código: Código de roda terminada, rodas girando.
+
+## Código Feito:
+const int pinoIN1 = 12;
+const int pinoIN2 = 14;
+const int pinoIN3 = 27;
+const int pinoIN4 = 26;
+
+void setup(){
+  pinMode(pinoIN1, OUTPUT);
+  pinMode(pinoIN2, OUTPUT);
+  pinMode(pinoIN3, OUTPUT);
+  pinMode(pinoIN4, OUTPUT);
+  
+}
+
+void loop() {
+  // DEFININDO A DIREÇÃO DA ROTAÇÃO ENA. 5s GIRANDO...
+  // IN1 HIGH | IN2 LOW
+  digitalWrite(pinoIN1, HIGH); // IN1
+  digitalWrite(pinoIN2, LOW);  // IN2
+  digitalWrite(pinoIN3, LOW);
+  digitalWrite(pinoIN4, LOW);
+  delay(5000);
+  
+  // PARANDO....... 3s PARANDO
+  digitalWrite(pinoIN1, LOW);
+  digitalWrite(pinoIN2, LOW);
+  delay(3000);
+  
+  
+  // DEFININDO A INVERSÃO DA DIREÇÃO DA ROTAÇÃO ENA. 5s GIRANDO...
+  // IN1 LOW | IN2 HIGH
+  digitalWrite(pinoIN1, LOW);  // IN1
+  digitalWrite(pinoIN2, HIGH); // IN2
+  digitalWrite(pinoIN3, LOW);
+  digitalWrite(pinoIN4, LOW);
+  delay(5000);
+  
+  // PARANDO....... 3s PARANDO
+  digitalWrite(pinoIN1, LOW);
+  digitalWrite(pinoIN2, LOW);
+  delay(3000);
+  
+  // DEFININDO A DIREÇÃO DA ROTAÇÃO ENB. 5s GIRANDO...
+  // IN3 HIGH | IN4 LOW
+  digitalWrite(pinoIN1, LOW);
+  digitalWrite(pinoIN2, LOW);
+  
+  digitalWrite(pinoIN3, HIGH); // IN3
+  digitalWrite(pinoIN4, LOW);  // IN4
+  delay(5000);
+  
+  // PARANDO....... 3s PARANDO
+  digitalWrite(pinoIN3, LOW);
+  digitalWrite(pinoIN4, LOW);
+  delay(3000);
+  
+  // DEFININDO A INVERSÃO DA DIREÇÃO DA ROTAÇÃO ENB. 5s GIRANDO...
+  // IN3 LOW | IN4 HIGH
+  digitalWrite(pinoIN1, LOW);
+  digitalWrite(pinoIN2, LOW);
+  
+  digitalWrite(pinoIN3, LOW);  // IN3
+  digitalWrite(pinoIN4, HIGH); // IN4
+  delay(5000);
+  
+  // PARANDO....... 3s PARANDO
+  digitalWrite(pinoIN3, LOW);
+  digitalWrite(pinoIN4, LOW);
+  delay(3000);
+}
+
+- Todos os objetivos da segunda semana foram concluidas com sucesso.
