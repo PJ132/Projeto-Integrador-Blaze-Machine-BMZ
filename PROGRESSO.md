@@ -12,44 +12,32 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Planejado
 
-- Definir a arquitetura geral do veículo.
-- Escolher a arquitetura de tração e direção.
-- Elaborar o primeiro diagrama elétrico.
-- Criar a estrutura inicial do repositório.
+- Criação do cronograma.
+- repositório no GitHub.
+-  Pesquisar como fazer a montagem do carrinho
 
 ## Concluído
 
-- Arquitetura geral definida.
-- Definida tração com dois motores DC.
-- Criado diagrama elétrico inicial.
-- Repositório organizado com `README.md`, `PLANEJAMENTO.md` e `PROGRESSO.md`.
+- Criação do cronograma.
+- repositório no GitHub.
+-  Pesquisar como fazer a montagem do carrinho
+- Repositório organizado com `README.md`, `PLANEJAMENTO.md` e `PROGRESSO.md`, e outras pastas.
 
 ## Não concluído
 
-- Escolha definitiva do driver de motores.
-
 ## Problemas ou impedimentos
-
-- O driver inicialmente escolhido pode não suportar a corrente de partida dos motores.
 
 ## Decisões técnicas da semana
 
-- A equipe decidiu comparar duas opções de driver antes da montagem definitiva.
-- Foi decidido manter o ESP32 como controlador principal.
-
 ## Testes realizados
-
-| Teste | Resultado |
-|---|---|
-| Alimentação do ESP32 em bancada | Funcionamento normal |
-| Teste individual dos motores | Ambos funcionaram |
 
 ## Próximas ações
 
 - Medir a corrente dos motores.
-- Definir o driver de potência.
+- Testar a Ponte H.
 - Iniciar montagem mecânica.
-- Implementar recepção dos comandos UDP.
+- Testar o ESP32.
+- Testar ESP32 e Ponte H com fonte em conjunto com o codigo.
 
 ---
 
@@ -57,26 +45,21 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Planejado
 
-- ____________________
-- ____________________
-- ____________________
+- Teste dos Componentes.
+- Montagem do carrinho.
+- Registro dos Testes feito.
 
 ## Concluído
 
-- ____________________
-- ____________________
+- Testes dos componentes: Motor funcionando, Ponte H funcionando, ESP32 funcionando.
+- Montagem do carrinho: Realizado
+- 
 
 ## Não concluído
 
-- ____________________
-
 ## Problemas ou impedimentos
 
-- ____________________
-
 ## Decisões técnicas da semana
-
-- ____________________
 
 ## Testes realizados
 
