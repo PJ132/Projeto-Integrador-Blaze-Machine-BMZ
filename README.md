@@ -186,13 +186,7 @@ Os campos definitivos de telemetria serão definidos pela equipe em conjunto com
 ---
 
 ## 9. Testes realizados
-
-Registrar os testes relevantes do projeto. Para registros mais detalhados, utilizar `docs/testes/`.
-
-| Data | Teste | Resultado | Próxima ação |
-|---|---|---|---|
-| __/__/2026 | ____________________ | ____________________ | ____________________ |
-
+[`Registro dos testes`](https://github.com/PJ132/Projeto-Integrador-Blaze-Machine-BMZ/blob/main/docs/testes/Registros%20de%20testes.md)
 ---
 
 ## 10. Observações
