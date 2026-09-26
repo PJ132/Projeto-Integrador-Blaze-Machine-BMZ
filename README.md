@@ -186,7 +186,9 @@ Os campos definitivos de telemetria serão definidos pela equipe em conjunto com
 ---
 
 ## 9. Testes realizados
+
 [`Registro dos testes`](https://github.com/PJ132/Projeto-Integrador-Blaze-Machine-BMZ/blob/main/docs/testes/Registros%20de%20testes.md)
+
 ---
 
 ## 10. Observações
