@@ -1,4 +1,4 @@
-# Segundo teste
+# Segundo teste 15/10/2026
 Houve sim outros testes, mas basicamente foi com o mesmo código envolvendo testar componentes coisa que já fizemos antes e descrevemos estávamos passando bastante dificuldade com a parte de hardware, pois vários componentes davam problemas, e também acontecia erros nossos. mas, conseguimos superar e fizemos o código pro carrinho funcionar em bluetooth:
 
 ## Codigo
